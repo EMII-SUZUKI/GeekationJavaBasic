@@ -1,8 +1,7 @@
 package basicSyntax;
 
 public class DataType {
-
-	public static void main(String[] args) {
+	  public static void main(String[] args) {
 		System.out.println("こんにちは" + "私の名前は" + "Geek君です。");
 	    System.out.println(10);
 	    System.out.println("20" +"24");
