@@ -18,5 +18,4 @@ public class Calculation {
 	    System.out.println("変数bの値は" + b + "です");	
 
 	}
-
 }
